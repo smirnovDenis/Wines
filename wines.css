@@ -542,6 +542,8 @@ tr:nth-child(even) td:nth-child(1){
     color: #282828;
 }
 .fr5{
+
+	/*Frame 5 Graphic Layer #1*/
 	position: absolute;
 	width: 100%;
 	height: 220px;
